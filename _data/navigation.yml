@@ -1,0 +1,17 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+
+- title: Notes
+  url: /notes/
+
+- title: Books
+  url: /books/
+
+- title: Tech
+  url: /tech/
+
+
+- title: Design
+  url: /design/
