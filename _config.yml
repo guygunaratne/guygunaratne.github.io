@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Liberal Letters + Code
+title:            Liberal Letters & Code
 locale:           en_US
 url: http://guygunaratne.github.io          
 
@@ -28,7 +28,7 @@ kramdown:
 owner:
   name: Guy Gunaratne
   avatar: me.jpeg
-  bio: "Co-Founder & Head of Product Design at Storygami"
+  bio: "Co-Founder & Head of Product Design at Storygami. I used to bounce around warzones. Now I work in tech changing web video forever. Also write books in the early hours."
   email: 
   disqus-shortname: 
   twitter: guygunaratne
