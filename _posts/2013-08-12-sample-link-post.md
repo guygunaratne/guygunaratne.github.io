@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sample Link Post"
+title: "The early web and video blogging: It was group of buddies in a Yahoo group that first figured out how to put video on the internet"
 excerpt: "Example and code for using link posts."
 tags: [sample post, link post]
 link: http://mademistakes.com  

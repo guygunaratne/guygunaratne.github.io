@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Author Override"
+title: "I could concentrate on codecs, but that would be a collossal waste of time."
 author: billy_rick
 modified:
-excerpt: "A post to test author overrides using a data file."
+excerpt: "An investor once came up to me and insisted that we were wasting precious time unless we made deals with the codec companies."
 tags: []
 ---
 

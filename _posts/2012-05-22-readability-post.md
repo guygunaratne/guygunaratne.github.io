@@ -1,7 +1,6 @@
----
 layout: post
-title: "Testing Readability with a Bunch of Text"
-excerpt: "A ton of text to test readability."
+title: Learning a language from the man who invented the metaphor
+excerpt: "The one thing that never gets mentioned about learning to code is perhaps, in the end, the most important and exciting thing about it."
 tags: [sample post, readability, test]
 comments: true
 ---

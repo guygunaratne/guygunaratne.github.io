@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Syntax Highlighting Post
+title: Yes, there is an investor equivalent of a "wantrepreneur"
 excerpt: "Demo post displaying the various ways of highlighting code in Markdown."
 tags: [sample post, code, highlighting]
 modified: 2014-09-14
