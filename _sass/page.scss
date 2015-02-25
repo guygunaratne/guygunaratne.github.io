@@ -19,6 +19,7 @@ body {
 	font-weight: 700;
 	text-transform: uppercase;
 	@include clearfix;
+	background-color: $bodycolor;
 }
 
 /* Site name */
@@ -83,6 +84,7 @@ body {
 		a { 
 			display: block;
 			padding: 10px 0;
+			color: $textcolor;
 			decoration: none;
 			border-bottom: 0 solid transparent;
 			@include transition(all .2s);

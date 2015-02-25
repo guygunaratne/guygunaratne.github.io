@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2015-02-25T00:59:45+01:00</updated>
+<updated>2015-02-26T00:36:11+01:00</updated>
 <id>/</id>
 <author>
   <name>Guy Gunaratne</name>
@@ -16,9 +16,36 @@
   
 
 <entry>
+  <title type="html"><![CDATA[These title sequences for the Oscar Best Film nominations are outstanding]]></title>
+  <link rel="alternate" type="text/html" href="/oscars-graphics/" />
+  <id>/oscars-graphics</id>
+  <published>2015-02-25T00:00:00+01:00</published>
+  <updated>2015-02-25T00:00:00+01:00</updated>
+  <author>
+    <name>Guy Gunaratne</name>
+    <uri></uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;While I stayed up for as long as I could on the night of the Oscars, my bleary eyes did catch sight of the quite beautiful graphics that were made for the Best Film title sequences. I particularly enjoyed the transitions made between each nomination. They were designed by &lt;a href=&quot;http://www.henryhobson.co.uk/&quot;&gt;Henry Hobson&lt;/a&gt; together with the animation studio &lt;a href=&quot;http://www.elastic.tv/&quot;&gt;Elastic&lt;/a&gt;. The ones for Birdman and Whiplash had me remember those gorgeous old Hitchcock title sequences for Vertigo and North By Northwest. The latter is a personal favourite. I must remember to watch it again sometime.&lt;/p&gt;
+
+&lt;iframe width=&quot;500&quot; height=&quot;281&quot; src=&quot;http://player.vimeo.com/video/120316233&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Today I also came across the site design for &lt;a href=&quot;http://www.dogstudio.be/&quot;&gt;Dogstudio&lt;/a&gt;. The ink-like transitions between pages are just as illustrative. For instance, try clicking through the nav bar.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;/oscars-graphics/&quot;&gt;These title sequences for the Oscar Best Film nominations are outstanding&lt;/a&gt; was originally published by Guy Gunaratne at &lt;a href=&quot;&quot;&gt;Liberal Letters & Code&lt;/a&gt; on February 25, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
   <title type="html"><![CDATA[Learning a language from the man who invented the metaphor]]></title>
-  <link rel="alternate" type="text/html" href="/Learning-Code/" />
-  <id>/Learning-Code</id>
+  <link rel="alternate" type="text/html" href="/learning-code/" />
+  <id>/learning-code</id>
   <updated>2013-05-31T00:00:00-00:00</updated>
   <published>2015-02-24T00:00:00+01:00</published>
   
@@ -148,7 +175,7 @@
 
 &lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Watch out!&lt;/strong&gt; You can also add notices by appending &lt;code&gt;{: .notice}&lt;/code&gt; to a paragraph.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/Learning-Code/&quot;&gt;Learning a language from the man who invented the metaphor&lt;/a&gt; was originally published by Guy Gunaratne at &lt;a href=&quot;&quot;&gt;Liberal Letters & Code&lt;/a&gt; on February 24, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;/learning-code/&quot;&gt;Learning a language from the man who invented the metaphor&lt;/a&gt; was originally published by Guy Gunaratne at &lt;a href=&quot;&quot;&gt;Liberal Letters & Code&lt;/a&gt; on February 24, 2015.&lt;/p&gt;
   </content>
 </entry>
 
