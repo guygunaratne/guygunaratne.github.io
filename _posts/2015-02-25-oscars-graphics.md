@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "These title sequences for the Oscar Best Film nominations are outstanding"
+title: "Henry Hobson made these throwback oscars graphics"
 excerpt: "They had me remember those gorgeous old Hitchock title sequences"
 tags: [sample post, images, test]
 comments: true
