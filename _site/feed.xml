@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2015-03-01T13:10:35+02:00</updated>
+<updated>2015-03-01T13:14:31+02:00</updated>
 <id>/</id>
 <author>
   <name>Guy Gunaratne</name>
@@ -16,45 +16,11 @@
   
 
 <entry>
-  <title type="html"><![CDATA[Fitting future-tech into an old world ]]></title>
-  <link rel="alternate" type="text/html" href="/windows-future/" />
-  <id>/windows-future</id>
-  <published>2015-02-26T00:00:00+02:00</published>
-  <updated>2015-02-26T00:00:00+02:00</updated>
-  <author>
-    <name>Guy Gunaratne</name>
-    <uri></uri>
-    
-  </author>
-  <content type="html">
-    &lt;p&gt;It’s an interesting exercise to think of the future as a permeating loop. Where technology flows through every aspect of our lives. Commentators tend to claim similar things about the here and now. Strictly speaking however, this isn’t all that true. Technology commands a lot of our time but I think there may be a larger distinction to be made about living &lt;em&gt;with&lt;/em&gt; technology verses living &lt;em&gt;within&lt;/em&gt; a technologically advanced world. &lt;/p&gt;
-
-&lt;p&gt;I’m reminded of the Peter Theil quote about how smart devices, these amazing products that fit into our hands tend to distract us from looking up at an old world. This holds true for the cities we live in to the transport systems we use and the systems we depend on such as government and education. &lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;There is far, far less innovation happening in the places that don’t fit into the palm of your hand.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;This is why, for me, videos like the one below become so compelling. It was made by Microsoft and it is being touted as their vision of a future where technology is infused into leisure, home and the workplace. &lt;/p&gt;
-
-&lt;p&gt;I particularly enjoyed seeing interfaces that are designed to fit into what is, in essence, an ordinary day. This I think is the compelling challenge: how can we augment an old world while maintaining the inherent human touches that we feel comfortable within? &lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/w-tFdreZB94&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-
-    &lt;p&gt;&lt;a href=&quot;/windows-future/&quot;&gt;Fitting future-tech into an old world &lt;/a&gt; was originally published by Guy Gunaratne at &lt;a href=&quot;&quot;&gt;Liberal Letters & Code&lt;/a&gt; on February 26, 2015.&lt;/p&gt;
-  </content>
-</entry>
-
-
-  
-
-<entry>
   <title type="html"><![CDATA[Struggling with a personal response to ISIS]]></title>
   <link rel="alternate" type="text/html" href="/isis-museum/" />
   <id>/isis-museum</id>
-  <published>2015-02-26T00:00:00+02:00</published>
-  <updated>2015-02-26T00:00:00+02:00</updated>
+  <published>2015-02-28T00:00:00+02:00</published>
+  <updated>2015-02-28T00:00:00+02:00</updated>
   <author>
     <name>Guy Gunaratne</name>
     <uri></uri>
@@ -95,7 +61,41 @@
 &lt;p&gt;It is a sad, tragic and an galling opinion to have come to. This video upsets me deeply and it upsets me more that I’ve come to adopt a position where yet more destruction is an inevitable outcome. But I watch this video, aware of the context, the circumstance around it - knowing full well that ISIS would in the end get what they want: war. The small comfort I have is that it’s an opinion that was hard won and that my liberalism finds great strength in struggling with decisions that ought to be struggled with.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;/isis-museum/&quot;&gt;Struggling with a personal response to ISIS&lt;/a&gt; was originally published by Guy Gunaratne at &lt;a href=&quot;&quot;&gt;Liberal Letters & Code&lt;/a&gt; on February 26, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;/isis-museum/&quot;&gt;Struggling with a personal response to ISIS&lt;/a&gt; was originally published by Guy Gunaratne at &lt;a href=&quot;&quot;&gt;Liberal Letters & Code&lt;/a&gt; on February 28, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Fitting future-tech into an old world ]]></title>
+  <link rel="alternate" type="text/html" href="/windows-future/" />
+  <id>/windows-future</id>
+  <published>2015-02-26T00:00:00+02:00</published>
+  <updated>2015-02-26T00:00:00+02:00</updated>
+  <author>
+    <name>Guy Gunaratne</name>
+    <uri></uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;It’s an interesting exercise to think of the future as a permeating loop. Where technology flows through every aspect of our lives. Commentators tend to claim similar things about the here and now. Strictly speaking however, this isn’t all that true. Technology commands a lot of our time but I think there may be a larger distinction to be made about living &lt;em&gt;with&lt;/em&gt; technology verses living &lt;em&gt;within&lt;/em&gt; a technologically advanced world. &lt;/p&gt;
+
+&lt;p&gt;I’m reminded of the Peter Theil quote about how smart devices, these amazing products that fit into our hands tend to distract us from looking up at an old world. This holds true for the cities we live in to the transport systems we use and the systems we depend on such as government and education. &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;There is far, far less innovation happening in the places that don’t fit into the palm of your hand.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is why, for me, videos like the one below become so compelling. It was made by Microsoft and it is being touted as their vision of a future where technology is infused into leisure, home and the workplace. &lt;/p&gt;
+
+&lt;p&gt;I particularly enjoyed seeing interfaces that are designed to fit into what is, in essence, an ordinary day. This I think is the compelling challenge: how can we augment an old world while maintaining the inherent human touches that we feel comfortable within? &lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/w-tFdreZB94&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;/windows-future/&quot;&gt;Fitting future-tech into an old world &lt;/a&gt; was originally published by Guy Gunaratne at &lt;a href=&quot;&quot;&gt;Liberal Letters & Code&lt;/a&gt; on February 26, 2015.&lt;/p&gt;
   </content>
 </entry>
 
