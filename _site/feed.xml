@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2015-03-03T21:52:37+01:00</updated>
+<updated>2015-03-03T23:07:02+01:00</updated>
 <id>/</id>
 <author>
   <name>Guy Gunaratne</name>
@@ -16,34 +16,11 @@
   
 
 <entry>
-  <title type="html"><![CDATA[Learning a language from the man who invented the metaphor]]></title>
-  <link rel="alternate" type="text/html" href="/learning-code/" />
-  <id>/learning-code</id>
-  <updated>2015-03-02T00:00:00-00:00</updated>
-  <published>2015-03-03T00:00:00+01:00</published>
-  
-  <author>
-    <name>Guy Gunaratne</name>
-    <uri></uri>
-    
-  </author>
-  <content type="html">
-    &lt;p&gt;This will no doubt turn into a longer post. But one of the things I am enjoying msot about learning to code is something I haven’t heard many people speak about. &lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;/learning-code/&quot;&gt;Learning a language from the man who invented the metaphor&lt;/a&gt; was originally published by Guy Gunaratne at &lt;a href=&quot;&quot;&gt;Liberal Letters & Code&lt;/a&gt; on March 03, 2015.&lt;/p&gt;
-  </content>
-</entry>
-
-
-  
-
-<entry>
   <title type="html"><![CDATA[Using Gulp.js (updated as I go)]]></title>
   <link rel="alternate" type="text/html" href="/gulpjs/" />
   <id>/gulpjs</id>
-  <updated>2015-03-03T00:00:00-00:00</updated>
   <published>2015-03-03T00:00:00+01:00</published>
-  
+  <updated>2015-03-03T00:00:00+01:00</updated>
   <author>
     <name>Guy Gunaratne</name>
     <uri></uri>
@@ -52,9 +29,9 @@
   <content type="html">
     &lt;h3 id=&quot;transitioning-away-from-codekit&quot;&gt;Transitioning away from CodeKit&lt;/h3&gt;
 
-&lt;p&gt;One of the things that I can very much attribute to my crossing into design and development is the sheer amount of tools that are readily available to download for free. I intend to share the full details of my setup in another post but my day-to-day workflow consists almost exclusively of tools that I came across for free (Compass for instance which I use to compile my CSS) or came pre-existing on my Mac i.e Terminal. This ostensibly means that a new developer can begin to learn coding for almost nothing. To me, this is wonderful and makes a great case for anyone to begin.&lt;/p&gt;
+&lt;p&gt;One of the things that I can very much attribute to my crossing into design and development is the sheer amount of tools that are readily available to download for free. I intend to share the full details of my setup in another post but my day-to-day workflow consists almost exclusively of tools that I came across for free (Compass for instance which I use to compile my CSS) or tools that came pre-existing with my Mac i.e Terminal. This ostensibly means that a new developer can begin to learn to code for next to nothing. This is wonderful and makes a great case for anyone, anywhere to jsut dive in and begin.&lt;/p&gt;
 
-&lt;p&gt;More often than not I have found that initial searches for tools offer paid-for clients that often come equipped with an easy-to-use GUI. These tools are often designed to do a few things reliably and very well. An example of this is the brilliant CodeKit which I have been using solely for live-reload. Live-reload is where my Chrome browser is asked to auto-refresh any time I make a change to the code. This is incredibly helpful when it comes to editing things like CSS styles, which take up the majority of my time.&lt;/p&gt;
+&lt;p&gt;More often than not I have found that initial searches for tools offer paid-for clients that often come equipped with an easy-to-use GUI. These tools are often designed to do a few things reliably and very well. An example of this is the brilliant CodeKit which I have been using solely for live-reload and style injections. Live-reload is where my Chrome browser is asked to auto-refresh any time I make a change to the code. This is incredibly helpful when it comes to editing things like CSS styles, which take up the majority of my time.&lt;/p&gt;
 
 &lt;p&gt;Now, CodeKit does a great job and is well worth paying for. It is also relatively affordable since you get name your price (between $30 - $40) after a 14 day trial. But there are free tools out there that offer similar results. One of which is Gulp.js.&lt;/p&gt;
 
@@ -68,6 +45,54 @@
 
 
     &lt;p&gt;&lt;a href=&quot;/gulpjs/&quot;&gt;Using Gulp.js (updated as I go)&lt;/a&gt; was originally published by Guy Gunaratne at &lt;a href=&quot;&quot;&gt;Liberal Letters & Code&lt;/a&gt; on March 03, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[LayerVault conducted an AMA with Matias Duarte]]></title>
+  <link rel="alternate" type="text/html" href="/ama-duarte/" />
+  <id>/ama-duarte</id>
+  <published>2015-03-03T00:00:00+01:00</published>
+  <updated>2015-03-03T00:00:00+01:00</updated>
+  <author>
+    <name>Guy Gunaratne</name>
+    <uri></uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;Matias Duarte just concluded an &lt;a href=&quot;https://news.layervault.com/stories/45342-ama-im-matias-duarte-a-vp-of-design-at-google&quot;&gt;AMA with LayerVault.&lt;/a&gt; There were a number of very interesting insights.&lt;/p&gt;
+
+&lt;h4 id=&quot;on-focusing-on-the-problem&quot;&gt;On focusing on the problem:&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I have a mantra I follow when tackling design projects, which is focus on the problem. Too many times I’ve fallen in love with an idea and wasted a bunch of time. However if you focus on something that’s a problem - something that causes pain or frustration or is an unmet need - you know you’re not just building a fantasy.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Particularly interesting was his frustration with the lack of concensus when it comes to iconography and how this affects adversly on usability:&lt;/p&gt;
+
+&lt;h4 id=&quot;consensus-on-iconography&quot;&gt;Consensus on iconography&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I’ve seen usability study after study that shows the glyphs we currently use cause confusion to first time users. The problem is exacerbated by the reality that our users use a mix of platforms during the day. Asking designers to use text is not an option - these common functions can take up too much space and are often hard to label meaningfully.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;on-his-design-influences&quot;&gt;On his design influences:&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I guess personally I’m most comfortable working in the abstract expressionist school. Gorky and Matta are the painters my work is most similar too. Though my figurative influences are heavily pop cultural … maybe cross the above two with Takashi Murakami and Audrey Kawasaki?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Here is a Murakami for reference: &lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;http://www.modearte.com/wp-content/uploads/Takashi-Murakami-ModeArte-Louis-Vuitton.jpg&quot; /&gt;
+	&lt;figcaption&gt;&lt;a href=&quot;http://www.flickr.com/photos/80901381@N04/7758832526/&quot; title=&quot;Takashi Murakami floral art&quot;&gt;Takashi Murakami&lt;/a&gt;.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+    &lt;p&gt;&lt;a href=&quot;/ama-duarte/&quot;&gt;LayerVault conducted an AMA with Matias Duarte&lt;/a&gt; was originally published by Guy Gunaratne at &lt;a href=&quot;&quot;&gt;Liberal Letters & Code&lt;/a&gt; on March 03, 2015.&lt;/p&gt;
   </content>
 </entry>
 

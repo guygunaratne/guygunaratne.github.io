@@ -8,10 +8,10 @@ comments: true
 
 ## About Liberal Letters & Code
 
-This is where I will post any thoughts about the few things I care and think deeply about. Namely design, technology, literature and politics.
+Posts here will tend toward digressive thoughts about the subjects I spend most of my time thinking about. Namely these are design, technology, literature and politics. These posts will either be a deep dive into either of these or a connection of dots between them all.
 
 
 ## About Me
 
-I am the co-founder and Head of Product Design at [Storygami.](www.storygami.co) Previously I was a video journalist covering human rights stories around the world, making content for the likes of Al Jazeera, Amnesty International and WarChild UK. I also write books in the early hours and live between London and Berlin.
+I am the co-founder and Head of Product Design at [Storygami.](www.storygami.co) Previously I was a video journalist covering human rights stories around the world having made content for the likes of Al Jazeera, Amnesty International and WarChild UK. I also write books in the early hours and live between London and Berlin.
 

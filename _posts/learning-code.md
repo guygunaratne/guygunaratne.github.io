@@ -8,4 +8,4 @@ comments: true
 ---
 
 
-This will no doubt turn into a longer post. But one of the things I am enjoying msot about learning to code is something I haven't heard many people speak about. 
+This will no doubt turn into a longer post. But one of the things I am enjoying most about design and development is something I haven't heard many people speak about. 
