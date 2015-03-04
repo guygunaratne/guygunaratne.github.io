@@ -27,7 +27,7 @@ allowfullscreen>
 
 ###Literature - Michael Silverblatt
 
-When it comes to literature, there is no voice I would rather listen to than Michael Silverblatt whose radio show/podcast [KCRW's Bookworm](http://www.kcrw.com/news-culture/shows/bookworm/karl-ove-knausgaard-my-struggle-part-ii) which is on regular play on my [Overcast](https://itunes.apple.com/us/app/overcast-podcast-player/id888422857?mt=8). His cultural insights are often more interesting than whatever the writers he interviews have to say about their own work. Silverblatt also rarely comes off stuffy and is always gracious about the work - since he actually reads all of the books. Skip to 0:25:
+When it comes to literature, there is no voice I would rather listen to than Michael Silverblatt whose radio show/podcast [KCRW's Bookworm](http://www.kcrw.com/news-culture/shows/bookworm/karl-ove-knausgaard-my-struggle-part-ii) is on regular play on my [Overcast](https://itunes.apple.com/us/app/overcast-podcast-player/id888422857?mt=8). His cultural insights are often more interesting than whatever the writers he interviews have to say about their own work. Silverblatt also rarely comes off stuffy and is always gracious about the work - since he actually reads all of the books. Skip to 0:25:
 
 <iframe 
 width="560" 
