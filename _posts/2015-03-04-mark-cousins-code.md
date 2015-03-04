@@ -48,9 +48,9 @@ allowfullscreen>
 </iframe>
 <br>
 
-Each of these engender a deeper love and understanding about the craft we choose to be a part of. But perhaps it is because programming is a relatively different form. It isn't art but it is a form of expression however way you look at it. Sure there is such a thing as beautiful code but I think I'm trying to get at how we talk about code and development in general. For example, what I find facinating is how Javascript is constructed and thought about as a tool and lanaguage framework. I've only just begun learning but it is what compels me to keep going. 
+Each of these engender a deeper love and understanding about the craft we choose to be a part of. But maybe it is because programming is relatively different. It isn't art but it is a form of expression however way you look at it. Sure there is such a thing as beautiful code but I'm thinking more about how we talk about code and development in general. For example, what I find facinating about Javascript is about how it is constructed and concieved as a tool and lanaguage framework. I've only just begun learning but this curiousity is what compels me to keep going. 
 
-Logic structure and systems perhaps doesn't lend well to flowering descriptions but then again architecture doesn't seem to suffer for the same. There is more to all this than being a functional way to build things on the web or otherwise and I am surprised at the lack of distinct voices. This is especially true when it comes to the axis of design, technology and society. Perhaps the like heart on [Dribble](https://dribbble.com/) needs to be enhanced somehow or perhaps I just haven't turned the corner and found them. 
+You could argue that logic structure and systems don't lend well to flowering descriptions but then again architecture doesn't seem to suffer for the same. There is more to all this than being a functional way to build things on the web or otherwise and I am surprised at the lack of distinct voices. This is especially true when it comes to the axis of design, technology and society. Perhaps the like heart on [Dribble](https://dribbble.com/) needs to be enhanced somehow or perhaps I just haven't turned the corner and found them. 
 
 Thus far the writers and old artisans at [A List Apart](http://alistapart.com/) have come closest.
 
