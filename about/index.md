@@ -6,7 +6,7 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 ---
 
-## About Liberal Letters & Code
+## About Letters & Code
 
 Posts here will tend toward digressive thoughts about the subjects I spend most of my time thinking about. Namely these are design, technology, literature and politics. These posts will either be a deep dive into either of these or a connection of dots between them all.
 
