@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2015-03-04T23:33:48+01:00</updated>
+<updated>2015-04-08T20:50:09+02:00</updated>
 <id>/</id>
 <author>
   <name>Guy Gunaratne</name>
@@ -31,7 +31,7 @@
 
 &lt;p&gt;Be that a teacher, a critic or an artist, it’s just more fun when you’re listening to someone who is slightly nuts about what they’re into. I also tend to trust and return to these rare few when I want to learn more. &lt;/p&gt;
 
-&lt;p&gt;There are equivelents in other crafts - and I do think you can call code a craft, there is an artisinal side to it - but I’m hard pressed to find the same sort of voice in technology, in design or in development in general.  &lt;/p&gt;
+&lt;p&gt;There are equivalents in other crafts - and I do think you can call code a craft, there is an artisanal side to it - but I’m hard pressed to find the same sort of voice in technology, in design or in development in general.  &lt;/p&gt;
 
 &lt;p&gt;To give you an idea of what I mean. Here are a few examples from other disciplines:&lt;/p&gt;
 
@@ -44,7 +44,7 @@
 
 &lt;h3 id=&quot;literature---michael-silverblatt&quot;&gt;Literature - Michael Silverblatt&lt;/h3&gt;
 
-&lt;p&gt;When it comes to literature, there is no voice I would rather listen to than Michael Silverblatt whose radio show/podcast &lt;a href=&quot;http://www.kcrw.com/news-culture/shows/bookworm/karl-ove-knausgaard-my-struggle-part-ii&quot;&gt;KCRW’s Bookworm&lt;/a&gt; which is on regular play on my &lt;a href=&quot;https://itunes.apple.com/us/app/overcast-podcast-player/id888422857?mt=8&quot;&gt;Overcast&lt;/a&gt;. His cultural insights are often more interesting than whatever the writers he interviews have to say about their own work. Silverblatt also rarely comes off stuffy and is always gracious about the work - since he actually reads all of the books. Skip to 0:25:&lt;/p&gt;
+&lt;p&gt;When it comes to literature, there is no voice I would rather listen to than Michael Silverblatt whose radio show/podcast &lt;a href=&quot;http://www.kcrw.com/news-culture/shows/bookworm/karl-ove-knausgaard-my-struggle-part-ii&quot;&gt;KCRW’s Bookworm&lt;/a&gt; is on regular play on my &lt;a href=&quot;https://itunes.apple.com/us/app/overcast-podcast-player/id888422857?mt=8&quot;&gt;Overcast&lt;/a&gt;. His cultural insights are often more interesting than whatever the writers he interviews have to say about their own work. Silverblatt also rarely comes off stuffy and is always gracious about the work - since he actually reads all of the books. Skip to 0:25:&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/wOQxr9SLp0s&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
 &lt;/iframe&gt;
@@ -57,9 +57,9 @@
 &lt;/iframe&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Each of these engender a deeper love and understanding about the craft we choose to be a part of. But perhaps it is because programming is a relatively different form. It isn’t art but it is a form of expression however way you look at it. Sure there is such a thing as beautiful code but I think I’m trying to get at how we talk about code and development in general. For example, what I find facinating is how Javascript is constructed and thought about as a tool and lanaguage framework. I’ve only just begun learning but it is what compels me to keep going. &lt;/p&gt;
+&lt;p&gt;Each of these engender a deeper love and understanding about the craft we choose to be a part of. By speaking and writing about the subject matter they somehow elevate the craft itself. But maybe it is because programming is relatively different. It isn’t art but it is a form of expression however way you look at it. Sure there is such a thing as beautiful code but I’m thinking more about how we talk about code and development in general. For example, what I find facinating about Javascript is about how it is constructed and concieved as a tool and lanaguage framework. I’ve only just begun learning but this curiousity is what compels me to keep going. &lt;/p&gt;
 
-&lt;p&gt;Logic structure and systems perhaps doesn’t lend well to flowering descriptions but then again architecture doesn’t seem to suffer for the same. There is more to all this than being a functional way to build things on the web or otherwise and I am surprised at the lack of distinct voices. This is especially true when it comes to the axis of design, technology and society. Perhaps the like heart on &lt;a href=&quot;https://dribbble.com/&quot;&gt;Dribble&lt;/a&gt; needs to be enhanced somehow or perhaps I just haven’t turned the corner and found them. &lt;/p&gt;
+&lt;p&gt;You could argue that logic structure and systems don’t lend well to flowering descriptions but then again architecture doesn’t seem to suffer for the same. There is more to all this than being a functional way to build things on the web or otherwise and I am surprised at the lack of distinct voices. This is especially true when it comes to the axis of design, technology and society. Perhaps the like heart on &lt;a href=&quot;https://dribbble.com/&quot;&gt;Dribble&lt;/a&gt; needs to be enhanced somehow or perhaps I just haven’t turned the corner and found them. &lt;/p&gt;
 
 &lt;p&gt;Thus far the writers and old artisans at &lt;a href=&quot;http://alistapart.com/&quot;&gt;A List Apart&lt;/a&gt; have come closest.&lt;/p&gt;
 
@@ -149,6 +149,73 @@
 &lt;/figure&gt;
 
     &lt;p&gt;&lt;a href=&quot;/ama-duarte/&quot;&gt;LayerVault conducted an AMA with Matias Duarte&lt;/a&gt; was originally published by Guy Gunaratne at &lt;a href=&quot;&quot;&gt;Liberal Letters & Code&lt;/a&gt; on March 03, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[On Embracing Your Weirdness]]></title>
+  <link rel="alternate" type="text/html" href="/weirdness/" />
+  <id>/weirdness</id>
+  <published>2015-03-02T00:00:00+01:00</published>
+  <updated>2015-03-02T00:00:00+01:00</updated>
+  <author>
+    <name>Guy Gunaratne</name>
+    <uri></uri>
+    
+  </author>
+  <content type="html">
+    &lt;blockquote&gt;
+  &lt;p&gt;An old post&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There is nothing worse than becoming your own obstacle. That’s why I’ve always felt it important to keep my own fears in check, else they could end up being the end of me. I’m sure you can relate. There is always that great big fear holding you back from progress. In order to tackle this I’ve tried (failed at times) to either confront or beat up on anything that has stopped me from moving forward. However I’ve found that the most effective method in dealing with fear is not by pushing back but embracing it instead. If you can conquer yourself, who’s left to challenge you?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Sometimes those fears can reveal hidden strengths and you end up flourishing for it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;For me, one of those great big fears was in crossing the disciplinary divide from being primarily what would be termed as a creative working in media content and news journalism to then founding and helping run a fully fledged technology company. Many things about this crossing made me unsteady. To begin with — it’s just a weird thing to do. I had spent my time covering news stories from crazy-ass places around the world, producing content, spending my time writing and completing two degrees in journalism and documentary. Soon the things that I had taken as strengths, that I had cultivated over years of hard earned craft, became at best weaknesses or at worst simply irrelevant. I mean I had Russian montage down but what’s that got to do with running a successful startup?&lt;/p&gt;
+
+&lt;p&gt;In 2013 when myself and my co-founder first considered starting another company (we had already founded another video production business) Storygami was a mere concept. It was borne out of a very personal frustration; I was sick of trying to tell complex stories about global conflict and messy stories about things like human rights in the usual 4–5 minute video for news broadcasters. There had to be a better way to tell complex stories online but this involved developing technology and frameworks that didn’t exist yet. The passion got us to the point of seeing the idea through to a prototype pretty quickly but it took more than that to build a business around the concept. The early days were very daunting and we’d listen to anyone who seemed to have an opinion on it.&lt;/p&gt;
+
+&lt;p&gt;I’d go to startup events and get sideways eyes when someone hears that my background isn’t one of straight up UI design or business school.&lt;/p&gt;
+
+&lt;p&gt;Let me get this out the way: it’s very easy to feel like an outsider in tech. Especially if you are not already a seasoned developer or a math genius, neither of which I am. But I have learnt enough code by now to know that it crossing this discipline isn’t impossible. Previously though this led to my feeling that perhaps a background in media and content wasn’t the most conducive for running a tech company. I’ve had many conversations about this with other startup founders. It tough going from a discipline (in which you have honed years of experience) to then suddenly switching to another in order to serve the same ambition. Many fall at this early hurdle, opting instead to stick to what they know and feel comfortable with. Advice comes in droves too. I remember a conversation in which someone flat out told me this was a bad idea and that I should just continue on the path I was on. It’s not like we had to change, as our video production business was going well so why do it now? The same person told me that we should just wait for the tech industry to fix the problem, that if we’d leave it to ‘collective tech’ they would figure it out eventually.&lt;/p&gt;
+
+&lt;p&gt;Well, that didn’t sit well with me. Luckily, my co-founder felt the same way. And you know what? I fucking love to code, turns out.&lt;/p&gt;
+
+&lt;p&gt;In the end we both managed to shake that other shit off. Fear is for the talkers, and you know what’s harder? Walking, nay, running a company. Yeah. That’s where we decided to spend our time focusing on. I learnt to learn again and dive in. It took a great deal of humility, being open to taking some advice, politely leaving the rest and adapting. We had to build new relationships and networks, gain a new set of skills. But crucially what I learnt was that the things that made us weird, all the stuff that I used to worry about were actually the things that drove us forward. Embracing our relatively out-there backgrounds has powered everything we’ve been able to do thus far. I’m proud of that.&lt;/p&gt;
+
+&lt;p&gt;Ben Horowitz puts it most succinctly in his book The Hard Thing About Hard Things. On the last page, last paragraph he says:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When I was a CEO, I genuinely thought that I was the only one struggling. Whenever I spoke to other CEO’s they all seemed like they had everything under control. Their business were always going fantastic and their experience was inevitably amazing. I thought the maybe growing up in Berkley with Communist grandparents might not have been the best background for running a company. But as I watched my peers fantastic, amazing businesses go bankrupt and sell for cheap I realised that I was probably not the only one struggling. As I got further into it I realised that embracing the unusual parts of my background would be the key to making it through. It would be those things that would give me unique perspectives and approaches to the business. The things that I would bring to the table that nobody else had.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;He goes on to say:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When I work with entrepreneurs today this is the main thing that I try to convey: embrace your weirdness, your background, your instinct. If the keys are not there, they do not exist.
+When I initially approached the tech world, I was so taken aback by what I didn’t know that I had forgotten what I had learnt already.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As a video journalist I used to get shots in my ass to prevent exotic diseases. I’ve walked through minefields and war-zones and survived. Heidi and I once managed to stare down burly military generals in South East Asia. I’ve sat down with unsavoury heads of state in Central America. We’ve both travelled to Central Africa to speak with former child soldiers, asked them about their experiences, their struggles. I can’t think of any other background that would fit the kind of company Storygami is on course to becoming.&lt;/p&gt;
+
+&lt;p&gt;I still get those sideways eyes at startup events from behind hipster glasses. But now I just tell them about that one time in Guatemala…&lt;/p&gt;
+
+&lt;p&gt;As far as I’m concerned it’s that background that instills in me a very rare kind of fearlessness. This is a character trait that I can call upon at anytime. That’s my weirdness. So no, forgive me for not being intimidated anymore.&lt;/p&gt;
+
+&lt;p&gt;But look. I don’t care what you did before you got here, there is going to be something in your background that you’ll be able to add that no-one else can. So what’s weird? What’s the unique approach? You bring something new? Minefields aside, it’s the creative instinct in my years editing news video dispatches (yes, Russian montage) that I bring to product design at Storygami. That’s actually what has helped me most, day to day. That and stubbornness.&lt;/p&gt;
+
+&lt;p&gt;I think we can all agree that tech needs more diversity in kind and in experience. So if there is anyone out there on the fringes thinking of switching into tech, just learn to adapt, struggle better and fear less.&lt;/p&gt;
+
+&lt;p&gt;And Welcome.&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;/weirdness/&quot;&gt;On Embracing Your Weirdness&lt;/a&gt; was originally published by Guy Gunaratne at &lt;a href=&quot;&quot;&gt;Liberal Letters & Code&lt;/a&gt; on March 02, 2015.&lt;/p&gt;
   </content>
 </entry>
 

@@ -10,7 +10,7 @@ When I look to find expertise in a specific discipline I tend to enjoy it far mo
 
 Be that a teacher, a critic or an artist, it's just more fun when you're listening to someone who is slightly nuts about what they're into. I also tend to trust and return to these rare few when I want to learn more. 
 
-There are equivelents in other crafts - and I do think you can call code a craft, there is an artisinal side to it - but I'm hard pressed to find the same sort of voice in technology, in design or in development in general.  
+There are equivalents in other crafts - and I do think you can call code a craft, there is an artisanal side to it - but I'm hard pressed to find the same sort of voice in technology, in design or in development in general.  
 
 To give you an idea of what I mean. Here are a few examples from other disciplines:
 
@@ -48,7 +48,7 @@ allowfullscreen>
 </iframe>
 <br>
 
-Each of these engender a deeper love and understanding about the craft we choose to be a part of. But maybe it is because programming is relatively different. It isn't art but it is a form of expression however way you look at it. Sure there is such a thing as beautiful code but I'm thinking more about how we talk about code and development in general. For example, what I find facinating about Javascript is about how it is constructed and concieved as a tool and lanaguage framework. I've only just begun learning but this curiousity is what compels me to keep going. 
+Each of these engender a deeper love and understanding about the craft we choose to be a part of. By speaking and writing about the subject matter they somehow elevate the craft itself. But maybe it is because programming is relatively different. It isn't art but it is a form of expression however way you look at it. Sure there is such a thing as beautiful code but I'm thinking more about how we talk about code and development in general. For example, what I find facinating about Javascript is about how it is constructed and concieved as a tool and lanaguage framework. I've only just begun learning but this curiousity is what compels me to keep going. 
 
 You could argue that logic structure and systems don't lend well to flowering descriptions but then again architecture doesn't seem to suffer for the same. There is more to all this than being a functional way to build things on the web or otherwise and I am surprised at the lack of distinct voices. This is especially true when it comes to the axis of design, technology and society. Perhaps the like heart on [Dribble](https://dribbble.com/) needs to be enhanced somehow or perhaps I just haven't turned the corner and found them. 
 
