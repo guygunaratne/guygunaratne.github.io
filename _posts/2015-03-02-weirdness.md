@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "On Embracing Your Weirdness"
+title: "On Embracing Your Wierdness"
 excerpt: "What can you bring to the table that no-one else can?"
-tags: [startup, courage]
+tags: [code, blogging]
 comments: true
 ---
 
